@@ -1,19 +1,19 @@
 h1 {
-  color: red !important;
+  color: cyan !important;
 }
 
 h2 {
-  color: orange !important;
-}
-
-h3 {
-  color: blue !important;
-}
-
-h4 {
   color: green !important;
 }
 
+h3 {
+  color: gold !important;
+}
+
+h4 {
+  color: orange !important;
+}
+
 p {
-  color: grey !important;
+  color: red !important;
 }
